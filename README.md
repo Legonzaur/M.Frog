@@ -1,4 +1,4 @@
-Build dockerfile : 
+Build docker image : 
 `docker build . -t legonzaur/mrfrog`
 
 
